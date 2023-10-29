@@ -35,3 +35,18 @@
 1698618837861:list-wachters
 1698618852229:add-wachter --anstellungdatum "12.12.2000" --telefonnummer 07533354242 --name "Max" --wachposten "Acasa" --geschlecht "n" --gehalt "3100" --id 1
 1698618863119:list-wachters
+1698620905608:help
+1698620912624:add-wachter
+1698620926505:add-ausbildungs-institut
+1698620947408:add-ausbildungs-institut --id 1 --name "ccl" --ort "salam"
+1698620959978:list-ausbildungs-institute
+1698622300129:help
+1698622341646:add-wachter --anstellungdatum "12.12.2003" --telefonnummer 07533354242 --name "Max" --wachposten "Acasa" --geschlecht "n" --gehalt "3100" --id 1
+1698622369852:add-ausbildungs-institut
+1698622394579:add-ausbildungs-institut --ort "Cluj" --name "Scoala" --id 1
+1698622401679:\\
+1698622406161:help
+1698622418050:add-ausbildung
+1698622458165:add-ausbildung --ausbildungsInstitutId 1 --wachterId 1 ----ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"
+1698622489620:add-ausbildung --ausbildungsInstitutId 1 --wachterId 1 --ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"
+1698622498359:add-ausbildung --ausbildungsInstitutId 1 --wachterId 2 --ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"
