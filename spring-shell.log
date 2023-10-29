@@ -50,3 +50,17 @@
 1698622458165:add-ausbildung --ausbildungsInstitutId 1 --wachterId 1 ----ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"
 1698622489620:add-ausbildung --ausbildungsInstitutId 1 --wachterId 1 --ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"
 1698622498359:add-ausbildung --ausbildungsInstitutId 1 --wachterId 2 --ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"
+1698623392685:add-wachter --anstellungdatum "12.12.2003" --telefonnummer 07533354242 --name "Max" --wachposten "Acasa" --geschlecht "n" --gehalt "3100" --id 1
+1698623399924:add-ausbildungs-institut --ort "Cluj" --name "Scoala" --id 1
+1698623406631:add-ausbildung --ausbildungsInstitutId 1 --wachterId 1 --ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"
+1698623412390:add-ausbildung --ausbildungsInstitutId 1 --wachterId 2 --ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"
+1698623432166:help
+1698623460712:list-ausbildungen
+1698623544433:add-wachter --anstellungdatum "12.12.2003" --telefonnummer 07533354242 --name "Max" --wachposten "Acasa" --geschlecht "n" --gehalt "3100" --id 1
+1698623555218:add-ausbildung --ausbildungsInstitutId 1 --wachterId 1 --ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"
+1698623558098:add-ausbildung --ausbildungsInstitutId 1 --wachterId 2 --ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"
+1698623561512:add-ausbildung --ausbildungsInstitutId 2 --wachterId 1 --ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"
+1698623938817:add-wachter --anstellungdatum "12.12.2003" --telefonnummer 07533354242 --name "Max" --wachposten "Acasa" --geschlecht "n" --gehalt "3100" --id 1
+1698623944759:add-ausbildungs-institut --ort "Cluj" --name "Scoala" --id 1
+1698623948324:add-ausbildung --ausbildungsInstitutId 1 --wachterId 1 --ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"
+1698623952345:add-ausbildung --ausbildungsInstitutId 1 --wachterId 2 --ausbildungsspezialisierung "polizei" --abschlussdatum "12.10.2000"

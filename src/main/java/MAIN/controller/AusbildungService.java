@@ -1,8 +1,7 @@
 package MAIN.controller;
 
-import MAIN.domain.Ausbildung;
-import MAIN.domain.AusbildungId;
-import MAIN.repo.AusbildungRepository;
+import MAIN.domain.*;
+import MAIN.repo.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
