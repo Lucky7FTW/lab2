@@ -2,3 +2,36 @@
 1698611381935:hello
 1698611390952:help
 1698611438711:quit
+1698615393840:help
+1698616040704:/wacher
+1698616049220:/wachters
+1698616119192:$ spring-shell
+1698616554624:Wachter newWachter = new Wachter();
+1698616653780:/wachter
+1698616659692:/wachters
+1698616675904:wachterService.getAllWachters()
+1698616779035:$ spring-context
+1698616793273:@Autowired WachterRepository wachterRepository
+1698616799188:Wachter newWachter = new Wachter();
+1698616867998:/wachters
+1698617029196:/help
+1698617032598:help
+1698617037651:wachters
+1698617046614:list-wachters
+1698617051746:List all wachters
+1698617747358:addWachter
+1698618056086:help
+1698618064877:quit
+1698618315527:help
+1698618320574:addWachter
+1698618519651:help
+1698618525596:add-wachter
+1698618648247:add-wachter --anstellungdatum "12.12.2003" --telefonnummer 07533354242 --name "Max" --wachposten "Acasa" --geschlecht "n" --gehalt "3100" --id 1
+1698618665551:list-wachters
+1698618784082:add-wachter --anstellungdatum "12.12.2003" --telefonnummer 07533354242 --name "Max" --wachposten "Acasa" --geschlecht "n" --gehalt "3100" --id 1
+1698618790194:help
+1698618798090:list-wachters
+1698618829460:add-wachter --anstellungdatum "12.12.2003" --telefonnummer 07533354242 --name "Max" --wachposten "Acasa" --geschlecht "n" --gehalt "3100" --id 1
+1698618837861:list-wachters
+1698618852229:add-wachter --anstellungdatum "12.12.2000" --telefonnummer 07533354242 --name "Max" --wachposten "Acasa" --geschlecht "n" --gehalt "3100" --id 1
+1698618863119:list-wachters
